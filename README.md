@@ -16,10 +16,15 @@ General guidelines
 Design guidelines
 -----------------
 
-1. Just use [bootstrap](http://getbootstrap.com/)
+1. We use [bootstrap](http://getbootstrap.com/)
 
 Deployment guidelines
 ---------------------
 
-1. Start with [heroku](https://www.heroku.com/) if possible
+1. We always start with [heroku](https://www.heroku.com/) if possible
 
+Ruby specific guidelines
+------------------------
+
+1. We follow [ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
+1. We use https://coveralls.io & https://codeclimate.com
