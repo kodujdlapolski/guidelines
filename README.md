@@ -22,6 +22,7 @@ Deployment guidelines
 ---------------------
 
 1. We always start with [heroku](https://www.heroku.com/) if possible
+1. We provide clear usage & installation instructions in the README 
 
 Ruby specific guidelines
 ------------------------
