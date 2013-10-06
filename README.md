@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kodujdlapolski/guidelines.png?branch=master)](https://travis-ci.org/kodujdlapolski/guidelines)
+
 Koduj dla Polski technical guidelines
 =====================================
 
